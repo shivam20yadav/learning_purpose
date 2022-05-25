@@ -30,6 +30,7 @@
   </ul>
   <b>git commit</b>
   <ul>
-    <li> this command is used for downloading repo</li>
-    <li> git clone __URL__ </li>
+    <li> this command creates a commit with option for message for the changes</li>
+    <li> git commit</li>
+    <li> git commit -m {message} </li>
   </ul>
